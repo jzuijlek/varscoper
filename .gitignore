@@ -1,3 +1,7 @@
 .project
 .settings/
 settings.xml
+WEB-INF
+*.local.cfm
+*.sublime-*
+*.todo
